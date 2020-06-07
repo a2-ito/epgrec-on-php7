@@ -7,7 +7,7 @@ This php promgrams is a recording tool for Japanese TV programs.
 I made some changes this to run it on PHP 7. The original one was expected to run on PHP 5.
 
 ## Readme from Original
-
+```
 epgrecは日本のデジタル放送用録画システムです。
 
 ●改造のための情報
@@ -172,4 +172,5 @@ install/step4.php
 install/step5.php
 　インストール：ステップ5
 
+```
 
